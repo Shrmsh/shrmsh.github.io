@@ -62,7 +62,7 @@ const StyledPic = styled.div`
     width: 100%;
     border-radius: var(--border-radius);
     ${'' /* background-color: var(--green); */}
-    background-color: #fafafa;
+    background-color: #fff;
 
     &:hover,
     &:focus {
@@ -144,7 +144,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Kasra, and I enjoy creating things that can be useful for real life!
+              Hello! My name is Shiva, and I enjoy creating things that can be useful for real life!
               This interest built my passion for continuing my bachelor's in Computer Science.
             </p>
 

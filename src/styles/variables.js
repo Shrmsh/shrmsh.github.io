@@ -4,8 +4,8 @@ const variables = css`
   :root {
     --body-light: #fff;
     --p-color: #46505a;
-    --mui-blue: #007fff;
-    --mui-blue-tint: rgba(0, 127, 255, 0.1);
+    --mui-blue: #ff003c;
+    --mui-blue-tint: rgba(255, 0, 60, 0.1);
     --mui-dark-blue: #0059b2;
     --mui-black: #0a1929;
     --mui-blue-4: #42a5f5;

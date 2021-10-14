@@ -61,13 +61,13 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Kasra Korminejad</h2>;
+  const two = <h2 className="big-heading">Shiva Radmanesh</h2>;
   // const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <>
       <p>
-        I’m a graduated Computer Engineering B.Sc. student at Ferdowsi university of Mashhad, Iran,
-        and a software engineer. Applying my knowledge to make technologies to solve problems is my
+        I’m a sinior Computer Engineering B.Sc. student at Ferdowsi university of Mashhad, Iran, and
+        a software engineer. Applying my knowledge to make technologies to solve problems is my
         passion for learning new things and working.
       </p>
     </>

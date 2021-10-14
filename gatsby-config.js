@@ -2,11 +2,11 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Kasra Korminejad',
-    description: 'Kasra is a software engineer and Computer Engineering student.',
-    siteUrl: 'https://korminejad.com', // No trailing slash allowed!
+    title: 'Shiva Radmanesh',
+    description: 'Shiva is a Computer Science student at Ferdowsi University of Mashhad',
+    siteUrl: 'https://shrmsh.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@kasraknd',
+    twitterUsername: '',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -19,8 +19,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Kasra Kormienjad',
-        short_name: 'KasraKorminejad',
+        name: 'Shiva Radmanesh',
+        short_name: 'ShivaRadmanesh',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
@@ -151,7 +151,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: 'UA-45666519-2',
+        trackingId: 'G-NSQBC2J05V',
       },
     },
   ],

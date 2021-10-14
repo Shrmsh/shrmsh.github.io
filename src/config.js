@@ -1,22 +1,22 @@
 module.exports = {
-  email: 'korminejad.kasra@gmail.com',
+  email: 'radmanesh.shiva1@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/kasrakn',
+      url: 'https://github.com/shivaradmanesh',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/kasrakn',
+      url: 'https://www.instagram.com/shiva_rdsh',
     },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/kasraknd',
-    },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://twitter.com/kasraknd',
+    // },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/kasra-korminejad',
+      url: 'https://www.linkedin.com/in/shiva-radmanesh',
     },
     // {
     //   name: 'Codepen',
