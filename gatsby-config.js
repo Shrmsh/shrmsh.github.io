@@ -1,6 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: '/',
   siteMetadata: {
     title: 'Shiva Radmanesh',
     description: 'Shiva is a Computer Science student at Ferdowsi University of Mashhad',
